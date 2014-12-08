@@ -16,3 +16,5 @@ Two key objectives:
 2. Disciplining yourself to make front-end decisions about all of the "inputs" you let into your life so that you will always have a plan for "next actions" that you can implement or renegotiate at any moment.
 
 _"What will you do when you're not saving the world?"_ Hans Zimmer, Man Of Steel.
+
+> “In karate there is an image that’s used to define the position of perfect readiness: “mind like water.” Imagine throwing a pebble into a still pond. How does the water respond? The answer is, totally appropriately to the force and mass of the input; then it returns to calm. It doesn’t overreact or underreact.”
