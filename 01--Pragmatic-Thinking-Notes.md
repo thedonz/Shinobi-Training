@@ -1,7 +1,7 @@
 # Pragmatic Thinking & Learning Notes
 
 Transcription of the first reading session: 2 Pomodoros 2014-12-09
-Start Time: 11:01AM
+Start Time: **11:01AM**
 
 > "Software is created in your head"
 
@@ -18,4 +18,4 @@ The essence of _pragmatism_ is to do what works -- for you.
 In systems thinking, one tries to envision an object as a connection point of several systems, rather than, as a discrete object unto itself.
 
 ## Always Consider The Context ##
-End Time: 11:49am
+End Time: **11:49am**
