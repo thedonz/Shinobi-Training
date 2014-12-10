@@ -72,12 +72,14 @@ Represents the content of an HTML document. There can be [ONLY ONE](http://heted
 
 #### `<p>` [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) -
 
-Represents a paragraph of text; a [block-level element](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements).
+Represents a paragraph of text; a [block-level element](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements). _(Block-level elements occupy the entire space of their parent container, thereby creating a "block".)_
 
 **EXAMPLE**
 
 ```html
-<p>"Horizontal boosters...! Alluvial dampers...! Well that's not it. Bring me the hydrospanner!"</p>
+<p>Han: "Horizontal boosters...! Alluvial dampers...! Well that's not it. Bring me the hydrospanner!"</p>
+
+<p>Chewbacca: "RRAAWWWWGHHH!!!!"</p>
 
 ```
 ----
