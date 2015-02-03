@@ -48,3 +48,18 @@ _R_ : Recite - Summarize, take notes, and put in your own words.
 
 _R_ : Review - Re-read, expand notes, and discuss with colleagues.
 * Re-read as necessary, expand on your notes.
+
+---
+
+Session: **Start**: 2015-01-20 14:41 **End**: 2015-01-20 15:06
+
+Notes:
+
+_"The Essence of Pragmatism is to do what works for you."_
+_"Nothing exists in isolation; everything is part of the system and part of a larger context."_
+
+Talking out loud, writing the material down and thinking about it  are NOT the same in the brain. They are processed through different neural pathways and can all be used interchangeably to increase retention of the material.
+
+Interesting thought: This book is a lot more philosophical than you'd imagine at first glance.
+
+### ALWAYS CONSIDER CONTEXT. ###
