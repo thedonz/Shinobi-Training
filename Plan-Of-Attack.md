@@ -12,8 +12,7 @@ First Mission:
 
       * Recreate the [The Longform Tumblr](https://www.pixelunion.net/themes/tumblr/longform/) theme used by [The Iron Yard Blog](https://www.pixelunion.net/themes/tumblr/longform/) using HTML + CSS.
       **Breakdown**:
-        * [ ] Use HTML 5 Boilerplate to create structure.
-        * [ ] Use CSS to style the HTML content.
+        * [ ] 
 
     2. Second Assignment: **Vertical Timeline**
 
